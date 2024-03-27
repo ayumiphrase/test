@@ -3,4 +3,8 @@
   "button.ok": "ok",
   "button.submit": "Submit",
   "menu.edit": "Edit"
+  "menu.exit": "Exit"
+  "menu.return": "Return"
+  "menu.enter": "Enter"
+  "Menu.cancel": "Cancel"
 }
