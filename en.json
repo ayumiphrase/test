@@ -1,10 +1,22 @@
 {
-  "button.cancel": "Cancel",
-  "button.ok": "ok",
-  "button.submit": "Submit",
-  "menu.edit": "Edit"
-  "menu.exit": "Exit"
-  "menu.return": "Return"
-  "menu.enter": "Enter"
   "Menu.cancel": "Cancel"
+  "Menu.save": "Save"
+  "Menu.edit": "Edit"
+  "Menu.delete": "Delete"
+  "Menu.settings": "Settings"
+  "Menu.logout": "Logout"
+  "Menu.home": "Home"
+  "Menu.back": "Back"
+  "Menu.next": "Next"
+  "Menu.search": "Search"
+  "Menu.add": "Add"
+  "Menu.done": "Done"
+  "Menu.refresh": "Refresh"
+  "Menu.close": "Close"
+  "Menu.help": "Help"
+  "Menu.about": "About"
+  "Menu.settings.general": "General Settings"
+  "Menu.settings.security": "Security Settings"
+  "Menu.settings.notifications": "Notification Settings"
+  "Menu.settings.language": "Language Settings"
 }
