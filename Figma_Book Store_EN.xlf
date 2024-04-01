@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="global" datatype="plaintext" source-language="en-US" target-language="ja-JP">
+    <body>
+      <trans-unit id="figma_Bookstore_Abouttheauthor">
+        <source xml:lang="en-US">About the author</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_Abouttheauthor_J.D.Salinger">
+        <source xml:lang="en-US">J.D. Salinger was an American writer, best known for his 1951 novel The Catcher in the Rye. Before its publi cation, Salinger published several short stories in Story magazine</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_auther_J.D. Salinger">
+        <source xml:lang="en-US">J.D. Salinger</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_auther_J.R.RTolkein">
+        <source xml:lang="en-US">J.R.R Tolkein</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_auther_RoaldDahl">
+        <source xml:lang="en-US">Roald Dahl</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_booktitle_CatcherintheRye">
+        <source xml:lang="en-US">Catcher in the Rye</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_booktitle_LordoftheRings">
+        <source xml:lang="en-US">Lord of the Rings</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_booktitle_SomeoneLikeYou">
+        <source xml:lang="en-US">Someone Like You</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_Buyfor">
+        <source xml:lang="en-US">Buy for %14.05</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_Buyfor_CatcherintheRye">
+        <source xml:lang="en-US">Catcher in the Rye</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_Buyfor_J.D.Salinger">
+        <source xml:lang="en-US">J.D. Salinger</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_CatcherintheRye">
+        <source xml:lang="en-US">Catcher in the Rye</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_CatcherintheRye_Story">
+        <source xml:lang="en-US">Pencey  is   Holden’s  fourth  school; he has already failed out of three others.At  Pencey, he has  failed four  out  of  five of  his classes and  has  received notice   that   he is   being expelled,  but  he  is  not scheduled  to return home  to  Manhattan  until  Wedne-sday. He visits his  elderly history teacher, Spencer, to say   goodbye,  but    when  Spencer  tries  to reprimand him  for his poor  academic perfo rm ance, Holden becomes annoyed. Back in the dorm itory,  Holden is further  irritated by his unhygienic neighbor, Ackley, and by his own  roommate,  Strad later.
+ 
+Stradlater  spends   the  evening   on a  date with   Jane  Gallagher, a   girl  whom  Holden used  to  date  and  whom  he   still  admires. During  the   course  of  the   evening, Holden grows increasingly nervous about Stradlater ’s   taking   Jane   out,   and   when Stradlater returns,  Holden   questions   him  insist ently about whether he tried to  have sex with her. Stradlater   teases  Holden,  who  flies  into  a rage and attacks  Stradlater. Stradlater pins Holden down and  bloodies his nose. Holden decides   that  he’s  enough  of  Pencey  and  will goand bloodies his nose.Holden decides that  he’s  enough  of  Pencey  and  will go and  bloodies his nose. Holden decides  that  he’s  enough  of  Pencey  and  will go   </source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_egenre_ducation">
+        <source xml:lang="en-US">Education</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_FontSize">
+        <source xml:lang="en-US">Font Size</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_genre_crime">
+        <source xml:lang="en-US">Crime</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_genre_psycology">
+        <source xml:lang="en-US">Psycology</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_genre_romance">
+        <source xml:lang="en-US">Romance</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_genre_science">
+        <source xml:lang="en-US">Science</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_genre_selflove">
+        <source xml:lang="en-US">Self-love</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_J.D.Salinger">
+        <source xml:lang="en-US">J.D. Salinger</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_Light Mode">
+        <source xml:lang="en-US">Light Mode</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_newarrivals">
+        <source xml:lang="en-US">New Arrivals</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_novel">
+        <source xml:lang="en-US">Novel</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_Overview">
+        <source xml:lang="en-US">Overview</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_Overview_The CatcherintheRye">
+        <source xml:lang="en-US">The Catcher in the Rye is a novel by J. D. Salinger, partially published in serial form in 1945–1946 and as a novel in 1951. It was originally intended for adu lts but is often read by adolescents for its theme of angst, alienation and as a critique......</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_ReadPreviews">
+        <source xml:lang="en-US">Read Previews</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_Readyourfavouritebooks">
+        <source xml:lang="en-US">Read your favourite books</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_Readyourfavouritebooks_Body">
+        <source xml:lang="en-US">All your favourites book in one place, read any book, staying at home, on travelling, or anywhere else</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_search" maxwidth="20" size-unit="char">
+        <source xml:lang="en-US">Search</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_SignUp">
+        <source xml:lang="en-US">Sign Up</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_Welcome backBunny">
+        <source xml:lang="en-US">Welcome back, Bunny!</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+      <trans-unit id="figma_Bookstore_whatdoyouwannareadtoday">
+        <source xml:lang="en-US">What do you want to read today?</source>
+        <target xml:lang="ja-JP"/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
